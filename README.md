@@ -2,11 +2,11 @@
 
 ![icon](.gitbook/assets/1648823283822.jpg)
 
-### **HashDoge-the world's largest virtual currency lottery platform**
+### **MGN-**Mangosteen Official website
 
 ## **Useful links**
 
-* **Website:** http://ehash.top
+* **Website:** [http://mgncoin.xyz](http://mgncoin.xyz)
 * **Telegram Group:** https://t.me/enjoyhash
 * **Twitter:** https://twitter.com/EnjoyHash\_Coin
 

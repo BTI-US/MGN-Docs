@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# What is HashDoge
+# What is MGN
 
 ![icon](../.gitbook/assets/1648823283822.jpg)
 
@@ -20,11 +20,6 @@ Hash algorithm is a generalized algorithm, which can also be regarded as an idea
 
 Blockchain is essentially a shared database in which data or information is stored. It has the characteristics of non-forgery, full traces, traceability, openness and transparency, and collective maintenance.
 
-## HashDoge
+## MGN
 
 Every transfer between decentralized exchanges will generate a block hash value. When you transfer 1 token to a certain wallet address, a series of hash values that cannot be tampered with are generated on the blockchain. , our contract will automatically identify whether this hash value meets our winning conditions. If the transfer is consistent with the winning conditions, then the smart contract will automatically return the winning tokens. All of this is automatically executed by the contract and cannot be manually intervened. Integrity, fairness and safety.
-
-
-
-
-

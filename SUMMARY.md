@@ -5,7 +5,7 @@
 ## About HDoge
 
 * [About](about-hdoge/about.md)
-* [What is HashDoge](about-hdoge/what-is-hashdoge.md)
+* [What is MGN](about-hdoge/what-is-mgn.md)
 * [Rule](about-hdoge/rule/README.md)
   * [Number + Letter](about-hdoge/rule/number-+-letter.md)
   * [Size](about-hdoge/rule/size.md)
