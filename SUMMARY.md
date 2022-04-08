@@ -20,14 +20,6 @@
   * [Oracles](introduction/emerging-concepts-and-their-relevance-in-applications/oracles.md)
 * [Conclusions](introduction/conclusions.md)
 * [References](introduction/references.md)
-* [What is MGN](introduction/what-is-mgn.md)
-* [Rule](introduction/rule/README.md)
-  * [Number + Letter](introduction/rule/number-+-letter.md)
-  * [Size](introduction/rule/size.md)
-  * [Single and Double](introduction/rule/single-and-double.md)
-  * [3x](introduction/rule/3x.md)
-  * [Player and Banker](introduction/rule/player-and-banker.md)
-* [Mission and Vision](introduction/mission-and-vision.md)
 
 ## Tokenomics
 
