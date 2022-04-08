@@ -6,13 +6,4 @@ coverY: 0
 
 # About
 
-HASH is an algorithm, you give it a string of numbers, and it returns you a string of numbers. What you give it is called "input", and what it gives you is called "output". That is to say, the data is output to the HASH function, and the HASH function outputs a series of numbers.
-
-The uniqueness and irreversibility of the HASH algorithm have made us very interested in it, and everything is traceable on the chain. Integrity, security, and stability are all executed by smart contracts without human intervention, which will replace the real lottery system mechanism.
-
-In reality, the lottery is more or less artificially controlled by people, but for HashDoge, we advocate that contracts should be used instead of people to execute.
-
-
-
-
-
+In the last four years, the evolution and adoption of blockchain and, more generally, distributed ledger systems have shown the affirmation of many concepts and models with significant differences in system governance and suitable applications. This work aims to analyze distributed ledger technology (DLT) critically. Starting from the topical idea of decentralization, we introduce concepts and building blocks currently adopted in the available systems centering on their functional aspects and impact on possible applications. We present some conceptual framing tools helpful in the application context: a DLT reference architecture, off-chain and on-chain governance models, and classification of consensus protocols. Finally, we introduce the concept of process authenticity, reviewing tools and strategies for integrating DLT with the physical world and proposing a constructive scheme for the authentication of a physical resource through alphanumeric data.

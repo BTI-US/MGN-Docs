@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Overview](README.md)
+* [Recent Trends and Perspectives in Distributed Ledger Technology (MGN)](README.md)
 
 ## About HDoge
 
