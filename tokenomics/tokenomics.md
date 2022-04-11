@@ -22,9 +22,13 @@ coverY: 0
 | 5%         | Marketing      |
 | 3%         | DLT Technology |
 
+
+
+{% hint style="info" %}
 Note:
 
 As the project develops, the slippage will be adjusted downwards according to the actual situation.
+{% endhint %}
 
 ## Token Allocation
 
