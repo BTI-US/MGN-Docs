@@ -8,11 +8,9 @@ The demand for greater decentralization and balance of power among internet play
 
 Whether or not one agrees with these analyses and conclusions, we believe that other practical circumstances point to decentralization as a critical factor for many application scenarios:
 
-· risks deriving from assuming a single point of failure/trust, as in the case of the “trusted third party” assumption;
-
-· costs reduction, both in the financial field and more generally in the commercial one, thanks to the elimination of intermediaries and interoperability “by design”;
-
-· need to coordinate safely and reliably complex distributed systems, which, by their nature, are better suited, in whole or in part, to peer-to-peer models.
+* risks deriving from assuming a single point of failure/trust, as in the case of the “trusted third party” assumption;
+* costs reduction, both in the financial field and more generally in the commercial one, thanks to the elimination of intermediaries and interoperability “by design”;
+* need to coordinate safely and reliably complex distributed systems, which, by their nature, are better suited, in whole or in part, to peer-to-peer models.
 
 In particular, decentralized-oriented technologies could support a killer feature in the context of a current primary trend in information processing, achieving a particular validated end after a pipeline of tasks performed by multiple and independent agents.
 
