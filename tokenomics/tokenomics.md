@@ -8,29 +8,26 @@ coverY: 0
 
 ## Specification
 
-* Name: HashDoge
-* Symbol: HDoge
+* Name: Mangosteen
+* Symbol: MGN
 * Network: BSC
 * Decimals: 9
-* Total supply: 50000000000
+* Total supply: 2,100,000
 
 ### Slippage
 
-buy | sell 8%
+| Percentage | Usage          |
+| ---------- | -------------- |
+| 8%         | Buy & Sell     |
+| 5%         | Marketing      |
+| 3%         | DLT Technology |
 
-3% Rewards
-
-2% LP
-
-3% Marketing
+> Note: As the project develops, the slippage will be adjusted downwards according to the actual situation.
 
 ## Token Allocation
 
-A total of 10000000000 HDoge tokens will be allocated into the following categories:
+A total of 2,100,000 MGN tokens will be allocated into the following categories:
 
 {% embed url="https://infogram.com/doughnut-chart-1h8n6m39v0gmj4x?live=" %}
 Pie Chart
 {% endembed %}
-
-
-
