@@ -8,17 +8,14 @@ coverY: 0
 
 Write a captionStrict road plan developed by our team, and will follow the road map to specify the direction for everyone and our achievements, and be accountable to all shareholders.
 
-
-
 **Q2/ 2022:**
 
 * [ ] Contract Deployment and Verification
 * [ ] Meta Dapp
 * [x] White paper
 * [x] 1k members in Telegram Group
-* [ ] IDO 100BNB
+* [ ] IDO 800BNB
 * [ ] Launch on PancakeSwap
-* [ ] Launch Metaverse HashDoge Game
 
 **Q3/ 2022:**
 
@@ -43,13 +40,6 @@ Write a captionStrict road plan developed by our team, and will follow the road 
 * [ ] Increase marketing efforts
 * [ ] Poocoin website and so on Advertise
 
-
-
 **Q2/ 2023:**
 
 * [ ] Community voting rights Next step
-
-
-
-
-
