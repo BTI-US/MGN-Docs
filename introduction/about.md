@@ -12,13 +12,13 @@ According to the leading provider of market and consumer data Statista ([**https
 
 Expanding on the idea of a decentralized currency, as implemented in Bitcoin, many of these startups are explicitly building decentralized business models as an alternative to the existing centralized ones. They promote this idea as “cutting out the middleman” \[**5**] thanks to a peer-to-peer network where customers and suppliers make transactions directly, with the goal of decentralized data storage and saving money on transaction fees. In this regard, DLT offers new paradigms on how companies and people can interact and negotiate and new ways in which assets and data are represented and monetized. The benefits and prospects deriving from this received attention—sometimes perhaps a little too optimistically and superficially—for many application domains and related use cases. Some surveys conducted by Statista, which involved hundreds of companies worldwide during the three years 2018–2020, reflect this state of affairs. For example, **Figure 1** presents use cases for blockchain technologies as of 2021. This statistic shows that companies were working on use cases concerning the following four main broad topics: digital currencies/payments, data sharing/reconciliation, identity protection, and asset transfer/traceability, each of which can be in itself declined and adapted to many different application scenarios.
 
-![Share of respondess](<../.gitbook/assets/image (3).png>)
+![Share of respondess](../.gitbook/assets/image1-1.png)
 
 **Figure 1.** Global organizations’ use cases for blockchain technology as of 2021 (©Statista) \[**6**]. Percentages equal more than 100 percent because respondents were allowed to submit more than one answer.
 
 **Figure 2** instead shows the factors that over this span of years have been perceived as the main obstacles that discourage more significant investments in blockchain technology and platforms. As the outcomes show, only a strict minority of respondents believed there were no barriers. At the same time, significant uncertainties concerned the actual usefulness and viability of this new technology, the risks associated with its adoption, and the lack of adequate regulations and standards.
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](../.gitbook/assets/image1-2.png)
 
 **Figure 2.** Perceived barriers for investing in blockchain technology during the three years 2018–2020 (©Statista) \[**7**].
 

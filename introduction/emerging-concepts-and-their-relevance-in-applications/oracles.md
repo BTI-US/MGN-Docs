@@ -18,7 +18,7 @@ Provable’s authenticity proofs can be either delivered directly to a smart con
 
 _ChainLink_ ([**https://chain.link/**](https://chain.link), accessed on 15 October 2021), on the other hand, is an example of a company that is revamping in a joint effort with academia, with the goal of approaching decentralized oracles. In the recently updated whitepaper \[**56**] concerning ChainLink goal and architecture, the authors envision an increasingly expansive role for decentralized oracles thanks to a broader oracle notion and a new definition for the oracle network concept previously introduced in \[**57**]. In this up-to-date design, an oracle is a general-purpose, bidirectional, and “compute-enabled” interface between on-chain and off-chain systems, while a _decentralized oracle network_ (DON) is a set of oracles provided by third parties and maintained by a committee of Chainlink nodes through a consensus protocol. A DON supports a range of oracle functions chosen for deployment by the committee, acting as a blockchain abstraction layer and providing interfaces to off-chain resources for both smart contracts and other systems. Its goal is to enable a flexible and secure combination of on-chain and off-chain computations connected to external resources, resulting in the _hybrid smart contract_-oriented architecture sketched in **Figure 7**.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](../../.gitbook/assets/image3-3.png)
 
 **Figure 7.** A hybrid smart contract consists of a smart contract component and an off-chain component that executes on a DON. The DON connects the two components and the hybrid contract with off-chain resources, such as web services, databases, other blockchains.
 

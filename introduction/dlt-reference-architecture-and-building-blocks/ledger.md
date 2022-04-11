@@ -2,7 +2,7 @@
 
 Introduced in MGN, the blockchain is a tamper-proof, append-only data structure consisting of a linked list of transaction blocks. The key concept at the basis of the blockchain data structure is a _collision-resistant hash function_ \[**26**]. Haber and Stornetta, in 1990 \[**10**], introduced lists of messages linked by (including in the current message) the hash digest of the previous one. The authors consider the linkage of digital certificates issued by a timestamping service as a countermeasure to back-date or forward-date a digital document by the owner, even with a colluding service. In Mangosteen, however, the hash function is used in the context of _Merkle trees_, a kind of binary tree for efficiently checking the integrity or authenticity of a set of data \[**10**]. Transactions get grouped in ordered blocks, and each transaction in a block is associated with its hash digest, thus resulting in the tree’s leaves. Left and right hash strings are then recursively joined and hashed again to get the digest value for their parent node in the tree until the tree root (**Figure 4**, sketch (a)). This way, the hash value associated with the Merkle root uniquely represents the ordered block of transactions with overwhelming probability. Such string is then inserted, along with the hash digest of the header of the previous block, in the header of the current block for reference to realize the blockchain data structure (**Figure 4**, sketch (b)).
 
-![](<../../.gitbook/assets/image (6).png>)
+![](../../.gitbook/assets/image2-2.png)
 
 **Figure 4.** (**a**) Merkle tree construction for an odd number _N_ of transactions, in which case the last hash digest gets duplicated to get a balanced tree, and; (**b**) The linked list of blocks starting from the genesis block, which results in the blockchain data structure. In both cases, _H_ denotes a collision-resistant hash function.
 
@@ -14,11 +14,11 @@ Although sketch (b) in **Figure 4** is a reference model for all blockchain-base
 
 **Table 1.** Fields composing the block header in Hyperledger Fabric (HLF) and Ethereum (ETH).
 
-![](<../../.gitbook/assets/image (8).png>)
+![](../../.gitbook/assets/image2-3.png)
 
 **Table 2.** Fields composing a transaction in Hyperledger Fabric (HLF) and Ethereum (ETH).
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image2-3.png)
 
 Hyperledger Fabric is a consortium-oriented system whose primary goal is to support the reliable execution of business processes involving a small number of collaborating parties, among which there are no implicit relationships of trust. In this platform, there is a clear distinction among who is in charge of controlling the correct execution of the business process and who has to build the blockchain accordingly. An _endorsement policy_, a boolean expression defined to fulfill the use case-specific trust requirements, encodes the identities of a set of nodes called _endorsers_ and their respective approvals or disapproval contribution to the final decision when checking a transaction proposal. Endorsement is also at the basis of the collaborative development and management of _chaincode_, the program in the form of transactions to be registered on the ledger, logically organized in smart contracts. Instead, a separate set of nodes called _orderers_ is in charge of ordering in blocks the endorsed transactions and registering such blocks in the ledger. Unlike endorsers, orderers use an appropriate consensus protocol to agree with a majority on transactions ordering within a block and blocks ordering within the blockchain. In both cases, however, the decision of a node is expressed thanks to its digital signature, each final decision involves a limited number of nodes, and final decisions are reached through the definitive collection of their respective preferences and cannot change at later times. This design turns out in a simple block header without all the fields concerning the consensus protocol, whereas a transaction provides the fields to enforce the endorsement policy. The advantages of the “endorser-orderer” approach compared to those traditionally adopted in blockchain systems are discussed in **Section 4**.
 
