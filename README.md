@@ -1,6 +1,6 @@
 # Recent Trends and Perspectives in Distributed Ledger Technology (MGN)
 
-![](.gitbook/assets/1648823283822.jpg)
+![](<.gitbook/assets/whitepaper-main (1).png>)
 
 ## Abstract
 
