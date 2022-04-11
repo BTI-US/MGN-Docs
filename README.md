@@ -17,5 +17,5 @@ In the last four years, the evolution and adoption of blockchain and, more gener
 ## **Useful links**
 
 * **Website:** [http://mgncoin.xyz](http://mgncoin.xyz)
-* **Telegram Group:** https://t.me/enjoyhash
+* **Telegram Group:** [https://t.me/Mangosteen\_Finance](https://t.me/Mangosteen\_Finance)
 * **Twitter:** https://twitter.com/EnjoyHash\_Coin
