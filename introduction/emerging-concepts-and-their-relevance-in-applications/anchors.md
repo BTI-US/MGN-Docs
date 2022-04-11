@@ -16,7 +16,7 @@ An _anchor_ ties a UID to the physical object with a property of the object that
 
 In \[**17**], the classification for anchors depicted in **Figure 6** represents a starting point for the design of a blockchain-based _crypto-anchor platform_ ([**https://www.ibm.com/blockchain/solutions/transparent-supply**](https://www.ibm.com/blockchain/solutions/transparent-supply), accessed on 15 October 2021) recently described in \[**18**]. Deployed by IBM in collaboration with some leading vendors of crypto-anchor technologies, this platform supports application development ranging from sustainable sourcing to supply-chain management and consumer engagement.
 
-![](file:///C:/Users/Phill/AppData/Local/Temp/ksohtml/wps7FBB.tmp.png)&#x20;
+![](<../../.gitbook/assets/image (1).png>)
 
 **Figure 6.** A classification of anchors based on the mechanism used to implement the entanglement of the UID to the physical object (adapted from \[**17**]).
 

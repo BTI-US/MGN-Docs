@@ -20,7 +20,7 @@ Since these protocols operate on P2P networks, allowing the decentralized manage
 
 **Table 3.** A list of some major network-oriented (NET) and committee-oriented (COM) blockchain consensus protocols.
 
-![](file:///C:/Users/Phill/AppData/Local/Temp/ksohtml/wps2F11.tmp.jpg)&#x20;
+![](<../../.gitbook/assets/image (7).png>)
 
 ### 1. Network-Oriented Consensus Protocols
 

@@ -4,7 +4,7 @@ Hyperledger Fabric was started in 2015 as an open-source project under the aegis
 
 Therefore, its design goals were from the beginning different from those of the blockchain platforms prevailing at the time, offering some key differentiation capabilities in the management of both network nodes and assets. This system adopts a permissioned network model in which nodes with different functions cooperate to commit transactions on the blockchain. The resulting _execute-order-validate_ workflow, illustrated in **Figure 5**, allows overcoming the following major drawbacks of the order-execute paradigm commonly adopted in blockchain systems \[**48**]:
 
-![](file:///C:/Users/Phill/AppData/Local/Temp/ksohtml/wpsC633.tmp.png)&#x20;
+![](<../../.gitbook/assets/image (2).png>)
 
 **Figure 5.** The transaction processing in Fabric entails three types of nodes, and as many steps as follows: (**1**) peers acting as endorsers check for the correctness of a transaction proposal by a client through the verification of its fields and the execution of the operation(s) provided in its payload; (**2**) orderers assemble all the endorsed transactions provided by clients in ordered blocks, where each block contains a reference to the previous block, and; (**3**) peers check the ordered blocks for valid transactions and store the resulting blocks in their local copy of the blockchain.
 
