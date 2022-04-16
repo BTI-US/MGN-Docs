@@ -17,5 +17,5 @@ In the last four years, the evolution and adoption of blockchain and, more gener
 ## **Useful links**
 
 * **Website:** [http://mgncoin.xyz](http://mgncoin.xyz)
-* **Telegram Group:** [https://t.me/Mangosteen\_Finance](https://t.me/Mangosteen\_Finance)
+* **Telegram Group:** [https://t.me/Mangosteen\_Global](https://t.me/Mangosteen\_Global)
 * **Twitter:** [https://twitter.com/victor\_raneii?s=09](https://twitter.com/victor\_raneii?s=09)
